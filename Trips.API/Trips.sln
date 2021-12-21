@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trips.API", "Trips.API\Trips.API.csproj", "{4AF2C3F3-195E-4FF6-B74E-48EEDF47D6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trips.Data", "Trips.Data\Trips.Data.csproj", "{86B56AED-40B1-4A0C-B0D3-6BF078E87530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trips.ML", "Trips.ML\Trips.ML.csproj", "{F749FC29-35EC-44A6-98B0-E3B2B2FCDD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF2C3F3-195E-4FF6-B74E-48EEDF47D6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF2C3F3-195E-4FF6-B74E-48EEDF47D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF2C3F3-195E-4FF6-B74E-48EEDF47D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF2C3F3-195E-4FF6-B74E-48EEDF47D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B56AED-40B1-4A0C-B0D3-6BF078E87530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B56AED-40B1-4A0C-B0D3-6BF078E87530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B56AED-40B1-4A0C-B0D3-6BF078E87530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B56AED-40B1-4A0C-B0D3-6BF078E87530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F749FC29-35EC-44A6-98B0-E3B2B2FCDD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F749FC29-35EC-44A6-98B0-E3B2B2FCDD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F749FC29-35EC-44A6-98B0-E3B2B2FCDD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F749FC29-35EC-44A6-98B0-E3B2B2FCDD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940B60BF-D86E-4C5B-A8F9-F25DFB363C4A}
+	EndGlobalSection
+EndGlobal
